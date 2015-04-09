@@ -1,7 +1,7 @@
 ---
 tags: schedule, kids, ruby, if/else
 language: ruby
-level: 2
+level: 1
 type: schedule
 ---
 

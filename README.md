@@ -13,3 +13,5 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + 2:50 - 3:00 Wrap Up
 
 [Lesson Plan](https://docs.google.com/a/flatironschool.com/document/d/1Ave3y7NFJWPg4ioFpfxt0a1i4SDKc_KasvDhgtUVKVo/edit)
+
+<a href='https://learn.co/lessons/hs-intro-software-day4-schedule' data-visibility='hidden'>View this lesson on Learn.co</a>
